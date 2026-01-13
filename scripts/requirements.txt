@@ -6,3 +6,4 @@ google-api-python-client>=2.70.0
 feedparser>=6.0.10
 praw>=7.6.0
 tweepy>=4.12.0
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
